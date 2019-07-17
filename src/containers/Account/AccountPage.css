@@ -1,0 +1,36 @@
+.AccountPage {
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.AccountPage .paper {
+  height: 420px;
+  min-width: 400px;
+}
+
+.AccountPage form {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  padding-top: 30px;
+}
+
+.AccountPage .textField {
+  width: 90%;
+}
+
+.AccountPage .submit {
+  width: 90%;
+}
+
+.AccountPage .error {
+  color: red;
+  margin-top: 8px;
+  height: 15px;
+  max-width: 350px;
+  align-self: center;
+}

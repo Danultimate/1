@@ -1,0 +1,94 @@
+.SignUp {
+    height: 100%;
+
+}
+.title {
+    color: rgb(10, 196, 226);
+    font-family: Raleway;
+    font-weight: 500;
+    margin: 0;
+}
+
+#root > div > main > div > div > div.col.s7.m7.l7.SignUp > form > p:nth-child(8) > a {
+
+ color: rgb(10, 196, 226) !important;
+
+}
+
+.MuiFormLabel-root-10.MuiFormLabel-focused-11 {
+
+ color: rgb(10, 196, 226) !important;
+
+}
+
+
+#root > div > main > div > div > div.col.s7.m7.l7.SignUp > form > div:nth-child(5) > button {
+    background-color: #1b5266;
+    color: white;
+
+}
+#root > div > main > div > div > div.col.s7.m7.l7.SignUp > form > p:nth-child(5) > a {
+
+    color: rgb(10, 196, 226);
+
+}
+#root > div > main > div > div > div.col.s7.m7.l7.SignUp > form > div:nth-child(1) > div > div {
+
+    margin: 0px;
+
+}
+#root > div > main > div > div > div.col.s7.m7.l7.SignUp > form > div:nth-child(2) > div > div {
+
+    margin: 0px;
+
+}
+#root > div > main > div > div > div.col.s7.m7.l7.SignUp > form > div:nth-child(3) > div > div {
+
+    margin: 0px;
+
+}
+
+#root > div > main > div > div > div.col.s7.m7.l7.SignUp > form > div:nth-child(4) > div > div {
+
+    margin: 0px;
+
+}
+
+.left {
+   float: left;
+}
+
+.grey-text {
+
+    margin: 0;
+}
+
+.SignUp form {
+    min-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 5px 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.SignUp .error {
+    color: red;
+    margin-top: 8px;
+    height: 15px;
+    max-width: 350px;
+    align-self: center;
+}
+
+.SignUp .textField {
+    width: 80%;
+}
+
+.SignUp .submit {
+    width: 30%;
+    height: 30%;
+    border-radius: 20px;
+    margin: 0px;
+    background-color: "#1b5266";
+}

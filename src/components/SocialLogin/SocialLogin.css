@@ -1,0 +1,11 @@
+.SocialLogin {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0;
+}
+
+.SocialLogin img {
+    margin-left: 10px;
+    cursor: pointer;
+}

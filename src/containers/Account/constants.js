@@ -1,0 +1,3 @@
+export const CHANGE_PASSWORD = "app/Account/CHANGE_PASSWORD";
+export const CHANGE_PASSWORD_SUCCESS = "app/Account/CHANGE_PASSWORD_SUCCESS";
+export const CHANGE_PASSWORD_FAILED = "app/Account/CHANGE_PASSWORD_FAILED";
